@@ -5,7 +5,8 @@ StarterCPP for use with Online Compiler for CST136 inlabs.
 
 1.	  Accept the invitation from github classroom at the top of inlab document.  
 2.	  Do the work
-3.   For all  steps:  Anytime you see a spot where it says:  have your instructor or a classmate check Part X NOW
+
+Anytime you see a spot where it says:  have your instructor or a classmate check Part X NOW
    1. Create an issue on your repository that is labeled: INLAB x PART y.  
       * If you are in class:
          * Show it to a neighbor or the instructor and have them sign off in the body of your issue.  They can say something like:  _I saw this and it worked. Bob._
