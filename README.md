@@ -1,5 +1,5 @@
-# StarterCPP
-StarterCPP for use with Online Compiler
+# Starter Code for CST136 inlabs
+StarterCPP for use with Online Compiler for CST136 inlabs.
 
 # How to turn in an inlab:
 
