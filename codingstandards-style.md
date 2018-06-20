@@ -228,6 +228,10 @@ void doSomething(const MyClass &);
 
 This is a proactive approach to simplify compilation time and rebuilding dependencies.
 
+## Use Object Based .h and .cpp
+
+If you have more then 150 lines in your program then separate out any classes / structs into their own .h and .cpp.  Note that .h files should only have inline code.
+
 ## Always Use Namespaces
 
 There is almost never a reason to declare an identifier in the global namespaces. Instead, functions and classes should exist in an appropriately named namespaces or in a class inside of a namespace. Identifiers which are placed in the global namespace risk conflicting with identifiers from other (mostly C, which doesn't have namespaces) libraries.
