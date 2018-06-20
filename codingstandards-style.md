@@ -230,7 +230,7 @@ This is a proactive approach to simplify compilation time and rebuilding depende
 
 ## Use Object Based .h and .cpp
 
-If you have more then 150 lines in your program then separate out any classes / structs into their own .h and .cpp.  Note that .h files should only have inline code.
+If you have more then 150 lines in your program then separate out any classes / structs into their own .h and .cpp.  Note that .h files should only have inline methods.
 
 ## Always Use Namespaces
 
